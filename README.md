@@ -1,2 +1,2 @@
 # blogtalk
-博客评论
+https://gongluck.github.io/ 博客评论
